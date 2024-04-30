@@ -1,5 +1,7 @@
-SAML SSO (Single Sign-On) Python Implementation
+**SAML SSO (Single Sign-On) Python Implementation**
+
 Descrizione
+
 Questo progetto fornisce un'implementazione semplice di generazione e parsing di richieste e risposte SAML (Security Assertion Markup Language) in Python, senza crittografia o firme digitali. È utile per comprendere i concetti di base di SAML.
 
 Spiegazione dettagliata del codice:
