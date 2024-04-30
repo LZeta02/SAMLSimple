@@ -1,4 +1,8 @@
-spiegazione dettagliata del codice:
+SAML SSO (Single Sign-On) Python Implementation
+Descrizione
+Questo progetto fornisce un'implementazione semplice di generazione e parsing di richieste e risposte SAML (Security Assertion Markup Language) in Python, senza crittografia o firme digitali. È utile per comprendere i concetti di base di SAML.
+
+Spiegazione dettagliata del codice:
 
 1. **Importazione delle librerie:**
    - `xml.etree.ElementTree`: Questa libreria è utilizzata per manipolare XML in Python.
